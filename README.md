@@ -56,11 +56,11 @@ b) 8x -> 4x -> 2x -> 1x: ./Codebase/AID/(Eval4)AID-EDSR-04162023-4.ipynb
 <img src="./Sample_Results_EDSR2.png" alt="alt text" width="1200" height="350">
 
 ## Location of codes for super-resolution of fluorescence microscopy data<br>
-1) Codes: ./microscopy_code<br>
+1) Codes: ./Codebase/microscopy_code<br>
 2) Data: Download data in https://doi.org/10.1038/s41592-018-0239-0<br> 
 
 ## Steps to reproduce experiment for fluorescence microscopy data-<br> 
-Preprocessing, EDSR/SRGAN training, evaluation are all in ./microscopy_code<br>
+Preprocessing, EDSR/SRGAN training, evaluation are all in ./Codebase/microscopy_code<br>
 
 <img src="./processed_img_test4.png" alt="alt text" width="1200" height="200">
 
