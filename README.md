@@ -72,11 +72,11 @@ Data: Download data in https://mmlab.ie.cuhk.edu.hk/projects/CelebA.html
 ## Steps to reproduce experiment for fluorescence microscopy data-
 Preprocessing, SRGAN/SR3 training, evaluation are all in ./Codebase/sragan/srgan_face_data.ipynb ./Codebase/diffusion/diffusion_celebA.ipynb
 
+Sample results for SRGAN:
+<img src="./srgan_results.jpg" alt="alt text" width="1200" height="200">
 
-<img src="./srgan_results.png" alt="alt text" width="1200" height="200">
-
-
-<img src="./sr3_results.png" alt="alt text" width="1200" height="200">
+Sample results for SR3
+<img src="./sr3_results.jpg" alt="alt text" width="1200" height="200">
 
 Thanks for your interest in this topic!
 
