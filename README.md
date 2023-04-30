@@ -62,6 +62,8 @@ b) 8x -> 4x -> 2x -> 1x: ./Codebase/AID/(Eval4)AID-EDSR-04162023-4.ipynb
 ## Steps to reproduce experiment for fluorescence microscopy data-<br> 
 Preprocessing, EDSR/SRGAN training, evaluation are all in ./microscopy_code<br>
 
+<img src="./processed_img_test4.png" alt="alt text" width="1200" height="200">
+
 Thanks for your interest in this topic!
 
 References:
