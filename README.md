@@ -73,9 +73,11 @@ Data: Download data in https://mmlab.ie.cuhk.edu.hk/projects/CelebA.html
 Preprocessing, SRGAN/SR3 training, evaluation are all in ./Codebase/sragan/srgan_face_data.ipynb ./Codebase/diffusion/diffusion_celebA.ipynb
 
 Sample results for SRGAN:
+
 <img src="./srgan_results.jpg" alt="alt text" width="400" height="400">
 
-Sample results for SR3
+Sample results for SR3:
+
 <img src="./sr3_results.jpg" alt="alt text" width="400" height="400">
 
 Thanks for your interest in this topic!
