@@ -73,25 +73,36 @@ Data: Download data in https://mmlab.ie.cuhk.edu.hk/projects/CelebA.html
 Preprocessing, SRGAN/SR3 training, evaluation are all in ./Codebase/sragan/srgan_face_data.ipynb ./Codebase/diffusion/diffusion_celebA.ipynb
 
 Sample results for SRGAN:
-<img src="./srgan_results.jpg" alt="alt text" width="1200" height="200">
+<img src="./srgan_results.jpg" alt="alt text" width="400" height="400">
 
 Sample results for SR3
-<img src="./sr3_results.jpg" alt="alt text" width="1200" height="200">
+<img src="./sr3_results.jpg" alt="alt text" width="400" height="400">
 
 Thanks for your interest in this topic!
 
 References:
-[1] C. Wang, Awesome-Super-Resolution, github link https://github.com/ChaofWang/Awesome-Super-Resolution, updated 22 Apr 2023.
+[1] C. Wang, Awesome-Super-Resolution, github link https://github.com/ChaofWang/Awesome-Super-Resolution, updated 22 Apr 2023
+
 [2] Z. Wang, J. Chen, S.C.H. Hoi, Deep Learning for Image Super-resolution: A Survey, arXiv: 1902.06068v2, 8 Feb 2020 .
+
 [3] K. Karwowska and D. Wierzbicki, Using Super-Resolution Algorithms for Small Satellite Imagery: A Systematic Review, IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, vol. 15, 2022
+
 [4] C. Wang, Awesome-Super-Resolution datasets, github link https://github.com/ChaofWang/Awesome-Super-Resolution/blob/master/dataset.md, updated  12 Feb 2022.
+
 [5] G-S. Xia, J. Hu, F. Hu, B. Shi, X. Bai, Y. Zhong, L. Zhang, AID: A Benchmark Dataset for Performance Evaluation of Aerial Scene Classification, Aug 2016
+
 [6] B. Lim, S. Son, H. Kim, S. Nah, K.M. Lee, Enhanced Deep Residual Network for Single Image Super-Resolution, CVPR 2017,  arXiv:1707.02921, July 2017
 [7] A. Kirillov, E. Mintun, N. Ravi, H. Mao, C. Rolland, L. Gustafson et al., Segment Anything, Meta AI Research, FAIR, April 2023
+
 [8] Wang, H. et al. Deep learning enables cross-modality super-resolution in fluorescence microscopy. Nat. Methods 16, 103–110 (2019).
+
 [9] Zhang, R., Isola, P., Efros, A. A., Shechtman, E. & Wang, O. The unreasonable effectiveness of deep features as a perceptual metric. in 2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition (IEEE, 2018).
+
 [10] Liu, Z., Luo, P., Wang, X., & Tang, X. (2015, December). Deep Learning Face Attributes in the Wild. Proceedings of International Conference on Computer Vision (ICCV).
+
 [11] Saharia, C., Ho, J., Chan, W., Salimans, T., Fleet, D. J., & Norouzi, M. (2021). Image super-resolution via iterative refinement. ArXiv:2104. 07636.
 [12] Ho, J., Jain, A., & Abbeel, P. (2020). Denoising Diffusion Probabilistic Models. arXiv:2006.11239v2, Dec 2020.
+
 [13] C. Ledig, L. Theis, F. Huszar, et al (2016). Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network. arXiv:1609.04802, Sep 2016. 
+
 [14]  Ian J. Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair, Aaron Courville, Yoshua Bengio (2014). Generative Adversarial Networks. arXiv.1406.2661, 2014. 
