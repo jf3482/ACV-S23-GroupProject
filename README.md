@@ -59,7 +59,7 @@ b) 8x -> 4x -> 2x -> 1x: ./Codebase/AID/(Eval4)AID-EDSR-04162023-4.ipynb
 1) Codes: ./microscopy_code<br>
 2) Data: Download data in https://doi.org/10.1038/s41592-018-0239-0<br> 
 
-## Steps to reproduce experiment-<br> 
+## Steps to reproduce experiment for fluorescence microscopy data-<br> 
 Preprocessing, EDSR/SRGAN training, evaluation are all in ./microscopy_code<br>
 
 Thanks for your interest in this topic!
