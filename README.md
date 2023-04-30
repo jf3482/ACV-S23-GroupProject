@@ -9,7 +9,7 @@ This repository looks at application of the Enhanced Deep Residual Networks (EDS
 2) Linkup between GCP, Google Colab and Google Drive: https://medium.com/@uditsaini/access-google-drive-and-mount-google-drive-to-colab-notebook-google-ccbca1691d31
 3) Matlab2022b: Used for evaluation of the models and the handcrafted control test.
 
-## Location of material - 
+## Location of AID material - 
 1) Codes: ./Codebase/AID
 2) Data: Download instructions in https://captain-whu.github.io/AID/. To place files in ./Data/AID/AIDoriginal
 
@@ -63,6 +63,14 @@ b) 8x -> 4x -> 2x -> 1x: ./Codebase/AID/(Eval4)AID-EDSR-04162023-4.ipynb
 Preprocessing, EDSR/SRGAN training, evaluation are all in ./Codebase/microscopy_code<br>
 
 <img src="./processed_img_test4.png" alt="alt text" width="1200" height="200">
+
+
+## Location of codes for super-resolution of celebA data
+Codes: ./Codebase/sragan/srgan_face_data.ipynb ./Codebase/diffusion/diffusion_celebA.ipynb
+Data: Download data in https://mmlab.ie.cuhk.edu.hk/projects/CelebA.html
+## Steps to reproduce experiment for fluorescence microscopy data-
+Preprocessing, SRGAN/SR3 training, evaluation are all in ./Codebase/sragan/srgan_face_data.ipynb ./Codebase/diffusion/diffusion_celebA.ipynb
+
 
 Thanks for your interest in this topic!
 
