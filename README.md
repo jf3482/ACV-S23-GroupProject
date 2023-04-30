@@ -69,7 +69,8 @@ SR3 training, evaluation are all in ./Codebase/diffusion/diffusion_fluorescence_
 ## Location of codes for super-resolution of celebA data
 Codes: ./Codebase/sragan/srgan_face_data.ipynb ./Codebase/diffusion/diffusion_celebA.ipynb
 Data: Download data in https://mmlab.ie.cuhk.edu.hk/projects/CelebA.html
-## Steps to reproduce experiment for fluorescence microscopy data-
+
+## Steps to reproduce experiment for celebA data-
 Preprocessing, SRGAN/SR3 training, evaluation are all in ./Codebase/sragan/srgan_face_data.ipynb ./Codebase/diffusion/diffusion_celebA.ipynb
 
 Sample results for SRGAN:
