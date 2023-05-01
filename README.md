@@ -1,5 +1,6 @@
 # ACV-S23-GroupProject - Fun With Super Resolution
 Group project component for Applied Computer Vision done in Columbia University for Spring 2023. <br>
+Work done by [Jit Soon Foo](https://github.com/jf3482), [Jiang Guan](https://github.com/iWantBrains), [Xinwen Liu](https://github.com/Xinwen-Liu-Wendy), [Jiang Xian](https://github.com/jiangxian0613)
 
 This project looks at applying Super Resolution to three different datasets, the Aerial Image Dataset (AID), the fluorescent Microscopy dataset and the CelebA dataset.
 
