@@ -1,5 +1,9 @@
 # ACV-S23-GroupProject - Fun With Super Resolution
 Group project component for Applied Computer Vision done in Columbia University for Spring 2023. <br>
+
+This project looks at applying Super Resolution to three different datasets, the Aerial Image Dataset (AID), the fluorescent Microscopy dataset and the CelebA dataset.
+
+# Aerial Image Dataset (AID)
 This repository looks at application of the Enhanced Deep Residual Networks (EDSR) for Super Resolution on the Aerial Imagery Dataset (AID).
 
 <img src="./Sample_Results_EDSR.png" alt="alt text" width="800" height="800">
@@ -55,7 +59,7 @@ b) 8x -> 4x -> 2x -> 1x: ./Codebase/AID/(Eval4)AID-EDSR-04162023-4.ipynb
     
 <img src="./Sample_Results_EDSR2.png" alt="alt text" width="1200" height="350">
 
-## Location of codes for super-resolution of fluorescence microscopy data<br>
+# Location of codes for super-resolution of fluorescence microscopy data<br>
 1) Codes: ./Codebase/microscopy_code<br>
 2) Data: Download data in https://doi.org/10.1038/s41592-018-0239-0<br> 
 
@@ -66,8 +70,8 @@ SR3 training, evaluation are all in ./Codebase/diffusion/diffusion_fluorescence_
 <img src="./processed_img_test4.png" alt="alt text" width="1200" height="200">
 
 
-## Location of codes for super-resolution of celebA data
-Codes: ./Codebase/sragan/srgan_face_data.ipynb ./Codebase/diffusion/diffusion_celebA.ipynb
+# Location of codes for super-resolution of celebA data
+Codes: ./Codebase/sragan/srgan_face_data.ipynb ./Codebase/diffusion/diffusion_celebA.ipynb <br>
 Data: Download data in https://mmlab.ie.cuhk.edu.hk/projects/CelebA.html
 
 ## Steps to reproduce experiment for celebA data-
@@ -83,7 +87,7 @@ Sample results for SR3:
 
 Thanks for your interest in this topic!
 
-References:
+## References:<br>
 [1] C. Wang, Awesome-Super-Resolution, github link https://github.com/ChaofWang/Awesome-Super-Resolution, updated 22 Apr 2023
 
 [2] Z. Wang, J. Chen, S.C.H. Hoi, Deep Learning for Image Super-resolution: A Survey, arXiv: 1902.06068v2, 8 Feb 2020 .
